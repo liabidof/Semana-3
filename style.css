@@ -1,0 +1,58 @@
+li.contacto {
+	text-align: center;
+	margin: 20px;
+	padding: 0;
+	float: right;
+	list-style-type: none;
+	font-family: "Nanum Gothic"
+}
+
+li {
+	font-family: "Nanum Gothic"
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+	padding: 10px;
+	color: #1E90FF;
+	font-family: "Oswald" 
+}
+
+h2 {
+	font-family: "Oswald"
+}
+
+h4{
+	font-family: "Oswald"
+}
+
+p {
+	font-family: "Nanum Gothic"
+}
+
+aside {
+	background-color: #ccffff;
+	margin-top: 50px;
+	float: left;
+	width: 250px;
+
+}
+
+section {
+	float: right;
+	width: 730px;
+}
+
+footer {
+	margin-left: 50px;
+	margin-top: 1000px;
+}
+
+header {
+	margin-bottom: 50px;
+}
+
+body {
+	background-color:  #e6ffff;
+}
